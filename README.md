@@ -60,7 +60,7 @@ dl-cybersecurity-labs/
 │   └── ffnn.pdf
 ├── ffnn_rnn_gnn_malware/
 │   ├── rnn_gnn.ipynb
-│   └── nn.pdf
+│   └── rnn_gnn.pdf
 ├── nlp_bert_ssh_analysis/
 │   ├── nlp.ipynb
 │   └── nlp.pdf
