@@ -43,7 +43,7 @@ Named Entity Recognition (NER) on SSH honeypot logs. Fine-tunes pre-trained lang
 
 | Lab | Dataset | Source |
 |-----|---------|--------|
-| 1 | CICIDS2017 | [Kaggle](https://www.kaggle.com/datasets/cicdataset/cicids2017) |
+| 1 | CICIDS2017 | [University of New Brunswick](https://www.unb.ca/cic/datasets/ids-2017.html) |
 | 2 | Malware API Call Sequences | [Kaggle](https://www.kaggle.com/datasets/ang3loliveira/malware-analysis-datasets-api-call-sequences) |
 | 3 | SSH Honeypot Sessions (CyberLab) | Politecnico di Torino — not publicly redistributable |
 
@@ -59,8 +59,8 @@ dl-cybersecurity-labs/
 │   ├── ffnn.ipynb
 │   └── ffnn.pdf
 ├── ffnn_rnn_gnn_malware/
-│   ├── rnn_gnn.ipynb
-│   └── rnn_gnn.pdf
+│   ├── nn.ipynb
+│   └── nn.pdf
 ├── nlp_bert_ssh_analysis/
 │   ├── nlp.ipynb
 │   └── nlp.pdf
